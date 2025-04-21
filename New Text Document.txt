@@ -1,0 +1,8 @@
+If you didn't receive full credit for Q #4, it could be due to one of the following reasons:
+
+The solution provided is incorrect or doesn't fully align with the requirements.
+The output is correct, but it wasn't represented in the expected list format as specified in the question (e.g., component list and constituents list).
+
+For coding-related questions, if you did not receive full marks and wish to challenge the grading, please ensure you have thoroughly tested your code with all possible edge cases before reaching out to me.
+
+If you are not satisfied with your grading or have concerns, you are always encouraged to reach out directly to the professor for clarification or to challenge your score. Please note that I will not be addressing individual questions related to this matter.
