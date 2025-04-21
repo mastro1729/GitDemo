@@ -9,6 +9,7 @@ class Test01_Connection {
 	System.out.println("OracleDriver is loaded");
 	System.out.println("Hello:");
 	System.out.println("Manideep L");
+	System.out.println("How are you doing today?");
 	//2. Establishing connection
 	Connection con = DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:XE", "system", "Manager"
 			 );
